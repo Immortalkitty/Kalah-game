@@ -23,10 +23,13 @@ To compile and run the game, follow these steps:
 - Players alternately choose pits from which they want to move stones.
 - The goal is to collect more stones in your base than your opponent.
 - The game ends when one of the players cannot make a move.
+![Game Start](ReadmeImages/GameStart.png) 
+![Game Middle](ReadmeImages/GameMiddle.png) 
 
 ## Ending the Game
 - At the end of the game, the final state of the board and the score are displayed.
 - The user can decide whether to play again or exit the program.
+![Game End](ReadmeImages/GameEnd.png) 
 
 ## Author
 Katarzyna Szczerba
